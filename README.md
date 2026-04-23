@@ -178,6 +178,25 @@ Production: https://academe-mv75.onrender.com/api
 Development: http://localhost:5000/api
 ```
 
+## Backend API Overview
+
+### Endpoints
+
+- `/diagnose` → Returns diagnosis results  
+- `/health` → Checks API status  
+
+### Error Handling
+- Returns JSON with:
+  - `status`
+  - `message`
+
+### Example Response
+```json
+{
+  "status": "error",
+  "message": "Invalid input"
+}
+
 ### 📊 Available Endpoints
 
 <details>
