@@ -23,7 +23,7 @@
 Academe is a modern, full-stack student management system designed to streamline administrative tasks for educational institutions. Built with cutting-edge technologies, it provides a robust platform for managing students, courses, departments, and more through an intuitive admin dashboard.
 
 ### 🚀 Live Application
-- **🌐 Frontend**: [https://academe-git-main-jdoijad15115s-projects.vercel.app](https://academe-git-main-jdoijad15115s-projects.vercel.app)
+- **🌐 Frontend**: [https://academe-git-main-jdoijad15115s-projects.vercel.app](https://uni-connect-git-main-jdoijad15115s-projects.vercel.app/)
 - **⚡ Backend API**: [https://academe-mv75.onrender.com/api](https://academe-mv75.onrender.com/api)
 
 ---
