@@ -152,6 +152,18 @@ npm run dev
 -- Ensure all foreign key relationships are properly established
 ```
 
+## AI Service Setup
+
+1. Install dependencies:
+   pip install -r ai-service/requirements.txt
+
+2. Run the service:
+   python ai-service/main.py
+
+## Features
+- API routes for diagnosis
+- Database schema integration
+
 ### 🌐 Access Your Application
 - **Frontend**: `http://localhost:5173`
 - **Backend API**: `http://localhost:5000/api`
